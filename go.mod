@@ -1,4 +1,4 @@
-module gomini
+module github.com/fesiong/gomini
 
 go 1.14
 
